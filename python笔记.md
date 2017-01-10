@@ -17,12 +17,12 @@ def forLoop():
 
 1. 列表解析
 ```python
-# 语法1
 def listComp():
     return [expr for iter_var in iterable]
-    
-# 语法2
+```
+```python
 def listComp():
+    return [expr for iter_var in iterable if cond_expr]
 ```
 
 1. map调用
@@ -32,5 +32,8 @@ def mapCall():
 ```
 
 1. 生成器表达式
+```python
+def 
+```
 
 1. 生成器函数
