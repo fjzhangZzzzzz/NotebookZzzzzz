@@ -17,10 +17,12 @@ def forLoop():
 
 1. 列表解析
 ```python
+# 语法1
 def listComp():
     return [expr for iter_var in iterable]
 ```
 ```python
+# 语法2
 def listComp():
     return [expr for iter_var in iterable if cond_expr]
 ```
