@@ -35,7 +35,12 @@ def mapCall():
 
 1. 生成器表达式
 ```python
-def 
+def genExpr():
+    return 
 ```
 
 1. 生成器函数
+```python
+def genFunc():
+    return 
+```
