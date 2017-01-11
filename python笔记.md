@@ -11,8 +11,8 @@
 def forLoop():
     res = []
     for iter_var in iterable:
-        ...
-    return expr
+        res.append(expr)
+    return res
 ```
 
 1. 列表解析
@@ -36,11 +36,15 @@ def mapCall():
 1. 生成器表达式
 ```python
 def genExpr():
-    return 
+    return list(expr for iter in iterable)
 ```
 
 1. 生成器函数
 ```python
 def genFunc():
+    def gen():
+        for iter in iterable:
+            yield expr
+    return list(gen())
     return 
 ```
