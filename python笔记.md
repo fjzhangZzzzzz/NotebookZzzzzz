@@ -30,7 +30,7 @@ def listComp():
 1. map调用
 ```python
 def mapCall():
-    return 
+    return list(map(expr, iterable))
 ```
 
 1. 生成器表达式
@@ -45,6 +45,5 @@ def genFunc():
     def gen():
         for iter in iterable:
             yield expr
-    return list(gen())
-    return 
+    return list(gen()) 
 ```
