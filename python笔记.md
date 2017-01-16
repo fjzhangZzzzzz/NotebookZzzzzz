@@ -1,3 +1,18 @@
+# 教程
+
+[Python教程-廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+
+
+# PyQt5安装
+
+## 下载
+[pyqt5安装](http://blog.csdn.net/zhulove86/article/details/52298203)
+
+## 教程
+
+[PyQt5教程](http://www.cnblogs.com/archisama/p/5442071.html)
+
+
 # 关于迭代
 
 ## 迭代器和生成器
