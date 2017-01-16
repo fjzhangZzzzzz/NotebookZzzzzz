@@ -17,6 +17,27 @@
 
 [ win7安装pycharm5+pyqt5+python3.4](http://blog.csdn.net/justheretobe/article/details/50492094)
 
+* streamax-win7 External Tools配置
+
+ 1. Qtdesigner 
+ ```
+ [Program] C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\Lib\site-  packages\PyQt5\designer.exe
+ [Parameters] 
+ [Working dir] $FileDir$
+ ```
+ 2. PyUIC
+ ```
+ [Program] C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\python.exe
+ [Parameters] -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtension$.py
+ [Working dir] $FileDir$
+ ```
+ 3. Pyrcc
+ ```
+ [Program] C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\PyQt5\pyrcc5.exe
+ [Parameters] -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtension$_rc.py
+ [Working dir] $FileDir$
+```
+
 
 # 脚下的坑
 
