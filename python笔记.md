@@ -6,11 +6,16 @@
 # PyQt5安装
 
 ## 下载
+
 [pyqt5安装](http://blog.csdn.net/zhulove86/article/details/52298203)
 
 ## 教程
 
 [PyQt5教程](http://www.cnblogs.com/archisama/p/5442071.html)
+
+## Pycharm配置PyQt
+
+[ win7安装pycharm5+pyqt5+python3.4](http://blog.csdn.net/justheretobe/article/details/50492094)
 
 
 # 关于迭代
