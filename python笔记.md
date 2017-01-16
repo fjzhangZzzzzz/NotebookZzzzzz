@@ -18,6 +18,11 @@
 [ win7安装pycharm5+pyqt5+python3.4](http://blog.csdn.net/justheretobe/article/details/50492094)
 
 
+# 脚下的坑
+
+[常见的几个坑](http://blog.csdn.net/handsomekang/article/details/9294975)
+
+
 # 关于迭代
 
 ## 迭代器和生成器
