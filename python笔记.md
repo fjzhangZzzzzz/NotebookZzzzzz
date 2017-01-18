@@ -50,6 +50,9 @@
 * u或U：表示unicode字符串；
 * b：表示字节流
 
+## 正则表达式
+
+[深入理解正则表达式](http://www.cnblogs.com/China3S/archive/2013/11/30/3451971.html)
 
 # 关于迭代
 
