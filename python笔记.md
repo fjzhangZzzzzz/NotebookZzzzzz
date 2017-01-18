@@ -43,6 +43,10 @@
 
 [常见的几个坑](http://blog.csdn.net/handsomekang/article/details/9294975)
 
+# Some Tips
+
+## ThreadLocal
+
 
 # 关于迭代
 
