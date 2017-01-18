@@ -54,6 +54,8 @@
 
 [深入理解正则表达式](http://www.cnblogs.com/China3S/archive/2013/11/30/3451971.html)
 
+[正则表达式速查表](http://www.jb51.net/shouce/jquery1.82/regexp.html)
+
 # 关于迭代
 
 ## 迭代器和生成器
