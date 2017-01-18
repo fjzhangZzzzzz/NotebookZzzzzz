@@ -52,9 +52,28 @@
 
 ## 正则表达式
 
-[深入理解正则表达式](http://www.cnblogs.com/China3S/archive/2013/11/30/3451971.html)
+* [深入理解正则表达式](http://www.cnblogs.com/China3S/archive/2013/11/30/3451971.html)
 
-[正则表达式速查表](http://www.jb51.net/shouce/jquery1.82/regexp.html)
+* [正则表达式速查表](http://www.jb51.net/shouce/jquery1.82/regexp.html)
+
+* 正则表达式分割字符串
+```python
+import re
+re.split(r'\s+', 'a b    c')
+re.split(r'[\s\.\,]+', 'a, b., c')
+```
+
+## OrderdDict有序字典
+
+* 特殊方法
+```python
+from collections import OrderedDict
+'''
+last = True, LIFO, 即为堆栈
+last = False, FIFO, 即为队列
+'''
+OrderedDict.popitem(last=True)
+```
 
 # 关于迭代
 
