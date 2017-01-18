@@ -75,6 +75,12 @@ last = False, FIFO, 即为队列
 OrderedDict.popitem(last=True)
 ```
 
+## Base64
+
+1. 将3个字节变成4个可打印字符
+1. 一种编码转换的方法
+1. 有些情况下传输不可见字符不方便
+
 # 关于迭代
 
 ## 迭代器和生成器
