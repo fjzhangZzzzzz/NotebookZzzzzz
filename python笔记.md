@@ -74,6 +74,8 @@ re.split(r'\s+', 'a b    c')
 re.split(r'[\s\.\,]+', 'a, b., c')
 ```
 
+* re模块
+
 ## OrderdDict有序字典
 
 * 特殊方法
