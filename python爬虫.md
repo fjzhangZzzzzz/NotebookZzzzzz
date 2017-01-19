@@ -19,7 +19,8 @@ pip3 install lxml
 ```
  1. 安装scrapy
 ```
-# 要求Microsoft Visual C++ 14.0以上
+# 要求Microsoft Visual C++ 14.0以上，下载地址：
+# http://landinghub.visualstudio.com/visual-cpp-build-tools
 pip3 install scrapy
 ```
 
