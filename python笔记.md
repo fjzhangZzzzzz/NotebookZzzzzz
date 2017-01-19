@@ -2,6 +2,15 @@
 
 [Python教程-廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
+## pip
+* 配置国内源-windows
+```bash
+# 新建C:\Users\Administrator\pip目录，pip.ini文件，内容如下
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+[install]
+trusted-host=mirrors.aliyun.com
+```
 
 # PyQt5安装和使用
 
