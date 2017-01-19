@@ -20,3 +20,8 @@ if __name__ == '__main__':
     print('Serving HTTP on Port[{0}]'.format(_port))
     _httpd.serve_forever()
 ```
+
+* 下载MySQL-Server，安装配置用户口令
+```
+http://dev.mysql.com/downloads/mysql/5.6.html
+```
