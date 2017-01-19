@@ -3,6 +3,8 @@
 
 # Some Tips
 
+* 父类异常的捕获应该放到子类异常后面
+
 * HTTP Header中字段
 ```
 User-Agent    : 请求用户的身份
