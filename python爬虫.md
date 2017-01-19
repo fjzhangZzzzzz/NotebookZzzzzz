@@ -3,6 +3,25 @@
 
 # Some Tips
 
+* 爬虫框架scrapy配置
+
+ 1. 安装pywin32
+```
+pip3 install pypiwin32
+```
+ 1. 安装pyOPENSSL
+```
+pip3 install pyOPENSSL
+```
+ 1. 安装lxml
+```
+pip3 install lxml
+```
+ 1. 安装scrapy
+```
+pip3 install scrapy
+```
+
 * 父类异常的捕获应该放到子类异常后面
 
 * HTTP Header中字段
@@ -24,34 +43,34 @@ TRACE   : 回显服务器收到的请求，主要用于测试
 CONNECT :
 ```
  1. GET请求
- ```python
- # python3
- from urllib.request import urlopen, Request
- request = Request("www.xxoo.com")
- reponse = urlopen(request)
- print(reponse.read())
- ```
+```python
+# python3
+from urllib.request import urlopen, Request
+request = Request("www.xxoo.com")
+reponse = urlopen(request)
+print(reponse.read())
+```
  1. POST请求
- ```python
- # python3
- import urllib
- from urllib.request import urlopen, Request
- signin_info = {"username":"fjzhang", "password":"xxoo"}
- data = urllib.urlencode(signin_info)
- url = "www.xxoo.com"
- request = Request(url, data)
- reponse = urlopen(request)
- print(reponse.read())
- ```
+```python
+# python3
+import urllib
+from urllib.request import urlopen, Request
+signin_info = {"username":"fjzhang", "password":"xxoo"}
+data = urllib.urlencode(signin_info)
+url = "www.xxoo.com"
+request = Request(url, data)
+reponse = urlopen(request)
+print(reponse.read())
+```
  1. HEAD请求
- ```python
- # python3
- from urllib.request import urlopen, Request
- request = Request("www.xxoo.com")
- request.get_method = lambda : 'HEAD'
- reponse = urlopen(request)
- print(reponse.read())
- ```
+```python
+# python3
+from urllib.request import urlopen, Request
+request = Request("www.xxoo.com")
+request.get_method = lambda : 'HEAD'
+reponse = urlopen(request)
+print(reponse.read())
+```
 
 ## urllib设置项
 1. 设置Header
