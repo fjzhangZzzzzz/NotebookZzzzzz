@@ -25,6 +25,7 @@ CONNECT :
 ```
  1. GET请求
  ```python
+ # python3
  from urllib.request import urlopen, Request
  request = Request("www.xxoo.com")
  reponse = urlopen(request)
@@ -32,6 +33,7 @@ CONNECT :
  ```
  1. POST请求
  ```python
+ # python3
  import urllib
  from urllib.request import urlopen, Request
  signin_info = {"username":"fjzhang", "password":"xxoo"}
@@ -43,6 +45,7 @@ CONNECT :
  ```
  1. HEAD请求
  ```python
+ # python3
  from urllib.request import urlopen, Request
  request = Request("www.xxoo.com")
  request.get_method = lambda : 'HEAD'
