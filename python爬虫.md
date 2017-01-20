@@ -135,3 +135,9 @@ print(reponse.read())
  1. 基于WebKit的服务器端JS API；
  1. 支持web功能，无需浏览器，渲染JS处理的页面；
  1. 可用于网页自动化、网络监测、网页截屏、无界面测试；
+ 
+ 
+* Selenium：
+> - [简介和用法](http://cuiqingcai.com/2599.html)
+
+ 1. 自动化测试工具；
