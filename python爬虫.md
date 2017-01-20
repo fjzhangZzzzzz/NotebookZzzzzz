@@ -153,5 +153,5 @@ print(reponse.read())
  > - 正则表达式，速度最快
  > - html.parser，python内置解析，速度最慢
  > - Beautiful Soup，使用较简单，性能相对低
- > - pyQuery，语法同iQuery
+ > - pyQuery，语法同iQuery；
  > - XPath，上手需要学习XPath语法；
