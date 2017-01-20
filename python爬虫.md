@@ -102,7 +102,7 @@ print(reponse.read())
  1. 代理
  
  
-* Beautiful Soup：[BS简介](http://cuiqingcai.com/1319.html)
+* Beautiful Soup：[BS简介](http://cuiqingcai.com/1319.html)  [官方文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
  1. 从网页抓取数据；
  1. 自动将输入文档转为unicode，将输出文档转为utf-8；
  1. 
