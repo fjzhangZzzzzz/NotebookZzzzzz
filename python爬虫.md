@@ -78,3 +78,8 @@ print(reponse.read())
 1. 设置Header
 1. 设置代理Proxy
 1. 设置超时Timeout
+
+## urlopen使用
+```python
+
+```
