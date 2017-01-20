@@ -119,3 +119,6 @@ print(reponse.read())
  
 * lxml：
 > - [官方文档](http://lxml.de/index.html)
+> - [XPath教程](http://www.w3school.com.cn/xpath/index.asp)
+
+ 1. 使用XPath语法；
