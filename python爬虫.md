@@ -142,3 +142,16 @@ print(reponse.read())
 
  1. Web自动化测试工具，用以模拟用户对浏览器的操作来实现自动化自称；
  1. 支持多种浏览器，包括PhantomJS；
+ 
+ 
+* 进阶工具小结
+
+ 1. HTTP请求
+ > - requests库
+ 
+ 1. 解析网页
+ > - 正则表达式，速度最快
+ > - html.parser，python内置解析，速度最慢
+ > - Beautiful Soup，使用较简单，性能相对低
+ > - pyQuery，语法同iQuery
+ > - XPath，上手需要学习XPath语法；
