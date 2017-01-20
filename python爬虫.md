@@ -121,5 +121,5 @@ print(reponse.read())
 > - [lxml官方文档](http://lxml.de/index.html)
 > - [XPath教程](http://www.w3school.com.cn/xpath/index.asp)
 
- 1. XPath：HTML/XM查询语言；
- 1. 解析xml文档，查找信息；
+ 1. XPath：HTML/XML查询语言；
+ 1. 解析HTML/XML文档，查找信息；
