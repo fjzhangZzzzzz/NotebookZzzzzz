@@ -1,6 +1,10 @@
 # 参考
 [如何入门Python爬虫 - 知乎](https://www.zhihu.com/question/20899988)
 
+# Some Tricks
+
+* gzip和zlib：gzip是针对文件来压缩与解压缩的。，而对于数据压缩与解压，是用zlib，所以在对获取到的html数据read后调用gzip.decompress报错
+
 # Some Tips
 
 * 爬虫框架scrapy配置
@@ -82,5 +86,5 @@ print(reponse.read())
 ## urlopen使用
 [Python urlopen使用示例](http://blog.csdn.net/leer168/article/details/8643103)
 ```python
-
+# 
 ```
