@@ -5,7 +5,7 @@
 
 * gzip和zlib：gzip是针对文件来压缩与解压缩的。，而对于数据压缩与解压，是用zlib，所以在对获取到的html数据read后调用gzip.decompress报错
 
-* 获取html后解码失败，[urlopen获取网页过程添加gzip解压](http://www.crifan.com/compress_html_in_urllib2_open_then_decompress_returned_gzip_data_in_python/)
+* 获取html后解码失败：[urlopen获取网页过程添加gzip解压](http://www.crifan.com/compress_html_in_urllib2_open_then_decompress_returned_gzip_data_in_python/)
 
 # Some Tips
 
