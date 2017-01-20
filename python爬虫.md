@@ -140,4 +140,4 @@ print(reponse.read())
 * Selenium：
 > - [简介和用法](http://cuiqingcai.com/2599.html)
 
- 1. 自动化测试工具；
+ 1. 自动化测试工具，支持各种浏览器；
