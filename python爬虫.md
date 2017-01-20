@@ -140,4 +140,5 @@ print(reponse.read())
 * Selenium：
 > - [简介和用法](http://cuiqingcai.com/2599.html)
 
- 1. 自动化测试工具，支持各种浏览器；
+ 1. 自动化测试工具，用以模拟用户对浏览器的操作；
+ 1. 支持多种浏览器，包括PhantomJS；
