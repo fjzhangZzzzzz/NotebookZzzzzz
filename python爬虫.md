@@ -90,3 +90,13 @@ print(reponse.read())
 ```python
 # 
 ```
+
+## 进阶工具
+
+* requests：[官方API文档](http://docs.python-requests.org/en/master/api/)
+ 1. 封装基本请求方法
+ 1. cookies获取与发送
+ 1. 超时设置
+ 1. 创建持久会话
+ 1. SSL证书验证
+ 1. 代理
