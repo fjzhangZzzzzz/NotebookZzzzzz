@@ -97,12 +97,12 @@ print(reponse.read())
 > - [requests用法简介](http://cuiqingcai.com/2556.html)
 > - [官方API文档](http://docs.python-requests.org/en/master/api/)
 
- 1. 封装基本请求方法
- 1. cookies获取与发送
- 1. 超时设置
- 1. 创建持久会话
- 1. SSL证书验证
- 1. 代理
+ 1. 封装基本请求方法；
+ 1. cookies获取与发送；
+ 1. 超时设置；
+ 1. 创建持久会话；
+ 1. SSL证书验证；
+ 1. 代理；
  
  
 * Beautiful Soup：
