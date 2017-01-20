@@ -129,6 +129,9 @@ print(reponse.read())
 * PhantomJS：
 > - [简介和用法](http://cuiqingcai.com/2577.html)
 > - [PhantomJS官网](http://phantomjs.org/)
+> - [官方文档](http://phantomjs.org/quick-start.html)
 
  1. 无界面的,可脚本编程的WebKit浏览器引擎；
- 1. 渲染JS处理的页面；
+ 1. 基于WebKit的服务器端JS API；
+ 1. 支持web功能，无需浏览器，渲染JS处理的页面；
+ 1. 可用于网页自动化、网络监测、网页截屏、无界面测试；
