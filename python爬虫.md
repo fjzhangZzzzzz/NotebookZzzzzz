@@ -105,7 +105,7 @@ print(reponse.read())
  1. 代理；
  
  
-* Beautiful Soup：
+* Beautiful Soup：HTML解析库
 > - [BS用法简介](http://cuiqingcai.com/1319.html) 
 > - [官方文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 
@@ -117,9 +117,9 @@ print(reponse.read())
  1. CSS选择器，多种查找方式；
  
  
-* lxml：
-> - [官方文档](http://lxml.de/index.html)
+* XPath & lxml：
+> - [lxml官方文档](http://lxml.de/index.html)
 > - [XPath教程](http://www.w3school.com.cn/xpath/index.asp)
 
- 1. 使用XPath语法；
+ 1. XPath：HTML/XM查询语言；
  1. 解析xml文档，查找信息；
