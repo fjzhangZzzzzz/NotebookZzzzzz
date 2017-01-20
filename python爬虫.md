@@ -122,3 +122,4 @@ print(reponse.read())
 > - [XPath教程](http://www.w3school.com.cn/xpath/index.asp)
 
  1. 使用XPath语法；
+ 1. 解析xml文档，查找信息；
