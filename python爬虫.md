@@ -100,3 +100,9 @@ print(reponse.read())
  1. 创建持久会话
  1. SSL证书验证
  1. 代理
+ 
+ 
+* Beautiful Soup：[BS简介](http://cuiqingcai.com/1319.html)
+ 1. 从网页抓取数据；
+ 1. 自动将输入文档转为unicode，将输出文档转为utf-8；
+ 1. 
