@@ -93,7 +93,10 @@ print(reponse.read())
 
 ## 进阶工具
 
-* requests：[官方API文档](http://docs.python-requests.org/en/master/api/)
+* requests：
+> - [requests用法简介](http://cuiqingcai.com/2556.html)
+> - [官方API文档](http://docs.python-requests.org/en/master/api/)
+
  1. 封装基本请求方法
  1. cookies获取与发送
  1. 超时设置
@@ -102,7 +105,13 @@ print(reponse.read())
  1. 代理
  
  
-* Beautiful Soup：[BS简介](http://cuiqingcai.com/1319.html)  [官方文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
+* Beautiful Soup：
+> - [BS用法简介](http://cuiqingcai.com/1319.html) 
+> - [官方文档](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
+
  1. 从网页抓取数据；
  1. 自动将输入文档转为unicode，将输出文档转为utf-8；
- 1. 
+ 1. 解析html
+ 1. 获取标签信息
+ 1. 获取标签中内容
+ 1. 获取标签中注释
