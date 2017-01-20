@@ -80,6 +80,7 @@ print(reponse.read())
 1. 设置超时Timeout
 
 ## urlopen使用
+[Python urlopen使用示例](http://blog.csdn.net/leer168/article/details/8643103)
 ```python
 
 ```
