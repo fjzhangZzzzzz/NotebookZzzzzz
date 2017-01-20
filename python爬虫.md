@@ -95,7 +95,7 @@ print(reponse.read())
 
 * requests：
 > - [requests用法简介](http://cuiqingcai.com/2556.html)
-> - [官方API文档](http://docs.python-requests.org/en/master/api/)
+> - [官方文档](http://docs.python-requests.org/en/master/api/)
 
  1. 封装基本请求方法；
  1. cookies获取与发送；
@@ -115,3 +115,7 @@ print(reponse.read())
  1. 遍历文档树，获取各节点信息；
  1. 搜索文档树，搜索指定标签下节点；
  1. CSS选择器，多种查找方式；
+ 
+ 
+* lxml：
+> - [官方文档](http://lxml.de/index.html)
