@@ -118,8 +118,17 @@ print(reponse.read())
  
  
 * XPath & lxml：
+> - [简介和用法](http://cuiqingcai.com/2621.html)
 > - [lxml官方文档](http://lxml.de/index.html)
 > - [XPath教程](http://www.w3school.com.cn/xpath/index.asp)
 
  1. XPath：HTML/XML查询语言；
  1. 解析HTML/XML文档，查找信息；
+ 
+
+* PhantomJS：
+> - [简介和用法](http://cuiqingcai.com/2577.html)
+> - [PhantomJS官网](http://phantomjs.org/)
+
+ 1. 无界面的,可脚本编程的WebKit浏览器引擎；
+ 1. 渲染JS处理的页面；
